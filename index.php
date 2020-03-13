@@ -7,6 +7,6 @@
 <body>
 	<h1>Hola!</h1>
 	<?php echo "Hello World!"; ?>
-	<?php $arr = array() ?>
+	<?php $arr = array(); ?>
 </body>
 </html>
