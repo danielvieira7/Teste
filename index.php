@@ -5,6 +5,6 @@
 </head>
 
 <body>
-asdhioasdhioashiodahiosdhioasdhiohioasdhio
+<?php echo "Hello World!"; ?>
 </body>
 </html>
