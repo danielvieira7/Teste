@@ -5,6 +5,7 @@
 </head>
 
 <body>
-<?php echo "Hello World!"; ?>
+	<h1>Hola!</h1>
+	<?php echo "Hello World!"; ?>
 </body>
 </html>
